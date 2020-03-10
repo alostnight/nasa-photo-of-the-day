@@ -13,7 +13,7 @@ function App() {
       <p>
       <div className="logo_container">
         <img className="logo" src={NASA_seal} alt="Nasa official seal" />
-        <h1>Nasa Photo of the Day</h1>
+        <h1>NASA Photo of the Day</h1>
       </div>
       <PhotoofDay />
       </p>
